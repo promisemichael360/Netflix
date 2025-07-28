@@ -21,7 +21,7 @@
 
   --breakpoint-xs: 480px;
 
-  --background-image-hero-pattern: url("./Login_Netflix.jpeg");
+  --background-image-hero-pattern: url("./Login-Netflix.jpeg");
   --background-image-hero-gradient: linear-gradient(
     to top,
   rgba(0,0,0,0.8)0,
